@@ -6,3 +6,7 @@ public class Login {
         System.out.println("God, please show me one way to make easier and better life. Givem ea power to strugle with this tough life.");
     }
 }
+
+
+
+//this is writing by GITHUB
